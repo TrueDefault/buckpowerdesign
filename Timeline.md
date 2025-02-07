@@ -2,7 +2,7 @@ gantt
     dateFormat  YYYY-MM-DD
     title       GANTT diagram
 
-    section Research
+    section Task 1
     Research                :    2025-03-07, 7d
     
     section Task 2
