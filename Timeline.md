@@ -1,8 +1,8 @@
-***mermaid
+```mermaid
 
 gantt
-    dateFormat  YYYY-MM-DD
     title       GANTT diagram
+    dateFormat  YYYY-MM-DD
 
     section Task 1
     Research                :    2025-03-07, 7d
@@ -22,4 +22,4 @@ gantt
     section Task 6
     Write a report          :    2025-05-02, 7d
 
-***
+```
